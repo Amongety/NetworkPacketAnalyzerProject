@@ -5,7 +5,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <unistd.h>
 
 #include "my_if.h"
 
@@ -23,6 +22,7 @@
     #include <arpa/inet.h>
     #include <netinet/icmp6.h>
     #include <netinet/ip_icmp.h>
+    #include <unistd.h>
 #elif _WIN32
     
 #endif

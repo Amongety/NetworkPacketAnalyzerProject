@@ -6,7 +6,6 @@
 #include <errno.h>
 #include <stdlib.h>
 #include <stdio.h>
-#include <unistd.h>
 
 #ifdef __linux__
     #define _DEFAULT_SOURCE	1
@@ -15,6 +14,7 @@
     #include <netinet/ip.h>
     #include <arpa/inet.h>
     #include <net/if.h>
+    #include <unistd.h>
 #elif _WIN32
     
 #endif

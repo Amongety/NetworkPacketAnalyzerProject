@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.25)
 
-project(VPNbeta)
+project(NetworkPacketAnalyzer)
 
 set(SOURCE_EXE main.c)			# Установка переменной со списком исходников
 

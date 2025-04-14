@@ -3,11 +3,10 @@
 #define __SIGNAL_HANDLER_H__ 1
 
 #include <signal.h>
-#include <unistd.h>
 #include <stdlib.h>
 
 #ifdef __linux__
-
+    #include <unistd.h>
 #elif _WIN32
     
 #endif

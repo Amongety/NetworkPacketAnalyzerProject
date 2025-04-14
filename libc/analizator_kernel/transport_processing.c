@@ -8,14 +8,15 @@ int transport_handler_layer_ipv4(int indification, char *buff, int rbytes) {
             printf("\tTCP\t\nSource port: %d\nDestination port: %d\nSequence number: %ld\nAcknowledgement number: %ld\n"
                 "Header length: %d\nFlags:\n\tReserved: %d\n\tAccurate: %d\n\tCongestion window: %d\n\tECN-echo: %d\n\t"
                 "Urgent: %d\n\tAcknowledgment: %d\n\tPush: %d\n\tReset: %d\n\tSyn: %d\n\tFin: %d\nWindow: %d\nChecksum: %d\n"
-                "Urgent pointer: %d\nTCP payload: \n", \
+                "Urgent pointer: %d\nTCP payload: %d\n", \
                 htons(tcp_segments->th_sport), htons(tcp_segments->th_dport), htonl(tcp_segments->th_seq), htonl(tcp_segments->th_ack), \
                 tcp_segments->th_off, (tcp_segments->res1 & 0xE) >> 1, tcp_segments->res1 & 0x1, (tcp_segments->res2 & 0x2) >> 1, \
                 tcp_segments->res2 & 0x1, tcp_segments->urg, tcp_segments->ack, tcp_segments->psh, tcp_segments->rst, \
-                tcp_segments->syn, tcp_segments->fin, htons(tcp_segments->th_win), htons(tcp_segments->th_sum), htons(tcp_segments->th_urp));
+                tcp_segments->syn, tcp_segments->fin, htons(tcp_segments->th_win), htons(tcp_segments->th_sum), htons(tcp_segments->th_urp), \
+                rbytes - sizeof(struct ether_header) - sizeof(struct ip) - (tcp_segments->th_off * 4));
 
             // printf("TCP useful data:\n");
-            // for(int i = sizeof(struct tcphdr) + sizeof(struct ip) + sizeof(struct ether_header); i < rbytes; ++i) printf("%c", buff[i]);
+            // for(int i = sizeof(struct ether_header) - sizeof(struct ip) - (tcp_segments->th_off * 4); i < rbytes; ++i) printf("%c", buff[i]);
             // printf("\n");
             break;
 

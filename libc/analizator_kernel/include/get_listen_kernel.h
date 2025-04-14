@@ -5,7 +5,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <unistd.h>
 
 #include "my_if.h"
 
@@ -15,6 +14,7 @@
     #include <netinet/in.h>
     #include <net/ethernet.h>
     #include <linux/if_arp.h>
+    #include <unistd.h>
 #elif _WIN32
     
 #endif
