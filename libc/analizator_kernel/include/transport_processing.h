@@ -24,7 +24,7 @@
     #include <netinet/ip_icmp.h>
     #include <unistd.h>
 #elif _WIN32
-    
+    #include "winsock.h"
 #endif
 
 int transport_handler_layer_ipv4(int indification, char *buff, int rbytes);

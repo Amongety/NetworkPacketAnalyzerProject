@@ -9,7 +9,7 @@
     #include <net/if.h>
     #include <netinet/in.h>
 #elif _WIN32
-    
+    #include "winsock.h"
 #endif
 
 /* struct ifreq */

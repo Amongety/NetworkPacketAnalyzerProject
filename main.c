@@ -10,7 +10,7 @@
     #include <net/if.h>
     #include <netinet/ether.h>
 #elif _WIN32
-
+    #include "winsock.h"
 #endif
 
 int main()

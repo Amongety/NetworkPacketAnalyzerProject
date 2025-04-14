@@ -16,7 +16,7 @@
     #include <netinet/in.h>
     #include <unistd.h>
 #elif _WIN32
-    
+    #include "winsock.h"
 #endif
 
 int get_mac(struct ifreq* result);

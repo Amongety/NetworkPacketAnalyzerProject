@@ -16,7 +16,7 @@
     #include <net/if.h>
     #include <unistd.h>
 #elif _WIN32
-    
+    #include "winsock.h"
 #endif
 
 int get_ip_address(struct ifreq *structpc);

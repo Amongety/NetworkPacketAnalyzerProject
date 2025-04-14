@@ -17,7 +17,7 @@
     #include <netinet/ip6.h>
     #include <unistd.h>
 #elif _WIN32
-    
+    #include "winsock.h"
 #endif
 
 int read_kernel(int sockfd);

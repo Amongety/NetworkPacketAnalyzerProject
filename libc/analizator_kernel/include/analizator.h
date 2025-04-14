@@ -13,7 +13,7 @@
     #include <net/ethernet.h>
     #include <unistd.h>
 #elif _WIN32
-    
+    #include "winsock.h"
 #endif
 
 int kernel_listening(struct ifinfo infoPC);

@@ -16,7 +16,7 @@
     #include <sys/ioctl.h>
     #include <unistd.h>
 #elif _WIN32
-    
+    #include "winsock.h"
 #endif
 
 int get_broadcast(struct ifreq* result);

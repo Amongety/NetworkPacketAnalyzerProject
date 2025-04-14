@@ -16,7 +16,7 @@
     #include <linux/if_arp.h>
     #include <unistd.h>
 #elif _WIN32
-    
+    #include "winsock.h"
 #endif
 
 int kernel_socket(int sockfd, struct ifinfo);
