@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/amongety/projects_c/NetwotkPacketAnalyzerProject/main.c" "CMakeFiles/main.dir/main.c.o" "gcc" "CMakeFiles/main.dir/main.c.o.d"
+  "/home/amongety/projects_c/NetworkPacketAnalyzerProject/main.c" "CMakeFiles/main.dir/main.c.o" "gcc" "CMakeFiles/main.dir/main.c.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/CMakeFiles/library.dir/DependInfo.cmake"
+  "/home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/CMakeFiles/library.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

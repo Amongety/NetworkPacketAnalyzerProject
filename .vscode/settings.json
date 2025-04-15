@@ -64,7 +64,11 @@
         "signal_handler.h": "c",
         "ip_icmp.h": "c",
         "stdint.h": "c",
-        "signal.h": "c"
+        "signal.h": "c",
+        "if_pppol2tp.h": "c",
+        "l2tp.h": "c",
+        "if_ppp.h": "c",
+        "ppp-ioctl.h": "c"
     },
     "C_Cpp.dimInactiveRegions": false
 }

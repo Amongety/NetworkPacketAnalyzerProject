@@ -21,6 +21,6 @@
 #endif
 
 int read_kernel(int sockfd);
-int write_kernel(int sockfd);
+// int write_kernel(int sockfd);
 
 #endif

@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = 
 
-C_INCLUDES = -I/home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc -I/home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/include -I/home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/interface_info/include -I/home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/analizator_kernel/include
+C_INCLUDES = -I/home/amongety/projects_c/NetworkPacketAnalyzerProject/libc -I/home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/include -I/home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/interface_info/include -I/home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/analizator_kernel/include
 
 C_FLAGS = 
 

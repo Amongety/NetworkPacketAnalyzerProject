@@ -1,7 +1,7 @@
 libc/CMakeFiles/library.dir/interface_info/get_interface_lists.c.o: \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/interface_info/get_interface_lists.c \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/interface_info/get_interface_lists.c \
  /usr/include/stdc-predef.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/interface_info/include/get_interface_lists.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/interface_info/include/get_interface_lists.h \
  /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \

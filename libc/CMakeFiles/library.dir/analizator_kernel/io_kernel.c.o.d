@@ -1,7 +1,7 @@
 libc/CMakeFiles/library.dir/analizator_kernel/io_kernel.c.o: \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/analizator_kernel/io_kernel.c \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/analizator_kernel/io_kernel.c \
  /usr/include/stdc-predef.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/analizator_kernel/include/network_processing.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/analizator_kernel/include/network_processing.h \
  /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -53,7 +53,7 @@ libc/CMakeFiles/library.dir/analizator_kernel/io_kernel.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/my_if.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/my_if.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
@@ -88,4 +88,4 @@ libc/CMakeFiles/library.dir/analizator_kernel/io_kernel.c.o: \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/analizator_kernel/include/io_kernel.h
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/analizator_kernel/include/io_kernel.h

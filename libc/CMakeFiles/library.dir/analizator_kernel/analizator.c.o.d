@@ -1,7 +1,7 @@
 libc/CMakeFiles/library.dir/analizator_kernel/analizator.c.o: \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/analizator_kernel/analizator.c \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/analizator_kernel/analizator.c \
  /usr/include/stdc-predef.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/analizator_kernel/include/analizator.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/analizator_kernel/include/analizator.h \
  /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -50,7 +50,7 @@ libc/CMakeFiles/library.dir/analizator_kernel/analizator.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/my_if.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/my_if.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
@@ -81,7 +81,7 @@ libc/CMakeFiles/library.dir/analizator_kernel/analizator.c.o: \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/analizator_kernel/include/get_listen_kernel.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/analizator_kernel/include/get_listen_kernel.h \
  /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
@@ -93,6 +93,6 @@ libc/CMakeFiles/library.dir/analizator_kernel/analizator.c.o: \
  /usr/include/linux/libc-compat.h /usr/include/linux/socket.h \
  /usr/include/linux/hdlc/ioctl.h /usr/include/linux/if_link.h \
  /usr/include/linux/netlink.h /usr/include/linux/const.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/analizator_kernel/include/io_kernel.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/analizator_kernel/include/io_kernel.h \
  /usr/include/arpa/inet.h /usr/include/netinet/ip.h \
  /usr/include/netinet/ip6.h /usr/include/inttypes.h

@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/amongety/projects_c/NetwotkPacketAnalyzerProject
+CMAKE_SOURCE_DIR = /home/amongety/projects_c/NetworkPacketAnalyzerProject
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/amongety/projects_c/NetwotkPacketAnalyzerProject
+CMAKE_BINARY_DIR = /home/amongety/projects_c/NetworkPacketAnalyzerProject
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/amongety/projects_c/NetwotkPacketAnalyzerProject/CMakeFiles /home/amongety/projects_c/NetwotkPacketAnalyzerProject//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/amongety/projects_c/NetworkPacketAnalyzerProject/CMakeFiles /home/amongety/projects_c/NetworkPacketAnalyzerProject//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/amongety/projects_c/NetwotkPacketAnalyzerProject/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/amongety/projects_c/NetworkPacketAnalyzerProject/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

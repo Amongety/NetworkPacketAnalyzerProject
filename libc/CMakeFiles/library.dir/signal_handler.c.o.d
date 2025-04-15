@@ -1,7 +1,7 @@
 libc/CMakeFiles/library.dir/signal_handler.c.o: \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/signal_handler.c \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/signal_handler.c \
  /usr/include/stdc-predef.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/include/signal_handler.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/include/signal_handler.h \
  /usr/include/signal.h /usr/include/features.h \
  /usr/include/features-time64.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \

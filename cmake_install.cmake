@@ -1,4 +1,4 @@
-# Install script for directory: /home/amongety/projects_c/NetwotkPacketAnalyzerProject
+# Install script for directory: /home/amongety/projects_c/NetworkPacketAnalyzerProject
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/cmake_install.cmake")
+  include("/home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -55,5 +55,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/amongety/projects_c/NetwotkPacketAnalyzerProject/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/amongety/projects_c/NetworkPacketAnalyzerProject/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

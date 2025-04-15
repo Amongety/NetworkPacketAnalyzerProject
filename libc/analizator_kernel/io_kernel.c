@@ -37,12 +37,12 @@ int read_kernel(int sockfd) {
     return 0;
 }
 
-int write_kernel(int sockfd) {
-    char *buff_write;
-    buff_write = (char*)malloc(4096 * sizeof(char));
-    memset(buff_write, 0, 4096);
+// int write_kernel(int sockfd) {
+//     char *buff_write;
+//     buff_write = (char*)malloc(4096 * sizeof(char));
+//     memset(buff_write, 0, 4096);
 
-    // sendto();
+//     // sendto();
 
-    free(buff_write);
-}
+//     free(buff_write);
+// }

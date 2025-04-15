@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/main.c.o: \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/main.c \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/main.c \
  /usr/include/stdc-predef.h /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -40,7 +40,7 @@ CMakeFiles/main.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
  /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/my_if.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/my_if.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
@@ -62,7 +62,7 @@ CMakeFiles/main.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h \
  /usr/include/net/if.h /usr/include/netinet/in.h \
  /usr/include/x86_64-linux-gnu/bits/in.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/include/get_if.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/include/get_if.h \
  /usr/include/string.h \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
@@ -93,11 +93,11 @@ CMakeFiles/main.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/analizator_kernel/include/analizator.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/analizator_kernel/include/analizator.h \
  /usr/include/net/ethernet.h /usr/include/linux/if_ether.h \
  /usr/include/linux/types.h /usr/include/x86_64-linux-gnu/asm/types.h \
  /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/include/signal_handler.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/include/signal_handler.h \
  /usr/include/signal.h \
  /usr/include/x86_64-linux-gnu/bits/signum-generic.h \
  /usr/include/x86_64-linux-gnu/bits/signum-arch.h \

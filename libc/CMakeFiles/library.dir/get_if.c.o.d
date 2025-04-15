@@ -1,7 +1,7 @@
 libc/CMakeFiles/library.dir/get_if.c.o: \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/get_if.c \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/get_if.c \
  /usr/include/stdc-predef.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/include/get_if.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/include/get_if.h \
  /usr/include/stdlib.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -56,7 +56,7 @@ libc/CMakeFiles/library.dir/get_if.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/my_if.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/my_if.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
@@ -93,16 +93,16 @@ libc/CMakeFiles/library.dir/get_if.c.o: \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/../libc/interface_info/include/get_flags_if.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/../libc/interface_info/include/get_interface_lists.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/../libc/interface_info/include/get_mac_address_if.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/../libc/interface_info/include/get_flags_if.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/../libc/interface_info/include/get_interface_lists.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/../libc/interface_info/include/get_mac_address_if.h \
  /usr/include/netinet/ether.h /usr/include/netinet/if_ether.h \
  /usr/include/linux/if_ether.h /usr/include/linux/types.h \
  /usr/include/x86_64-linux-gnu/asm/types.h \
  /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
  /usr/include/net/ethernet.h /usr/include/net/if_arp.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/../libc/interface_info/include/get_ip_for_mac_if.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/../libc/interface_info/include/get_broadcast_if.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/../libc/interface_info/include/get_mtu_if.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/../libc/interface_info/include/get_network_mask_if.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/../libc/interface_info/include/get_interface_value_if.h
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/../libc/interface_info/include/get_ip_for_mac_if.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/../libc/interface_info/include/get_broadcast_if.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/../libc/interface_info/include/get_mtu_if.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/../libc/interface_info/include/get_network_mask_if.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/../libc/interface_info/include/get_interface_value_if.h

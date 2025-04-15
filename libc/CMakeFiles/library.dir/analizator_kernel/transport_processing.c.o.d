@@ -1,7 +1,7 @@
 libc/CMakeFiles/library.dir/analizator_kernel/transport_processing.c.o: \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/analizator_kernel/transport_processing.c \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/analizator_kernel/transport_processing.c \
  /usr/include/stdc-predef.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/analizator_kernel/include/transport_processing.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/analizator_kernel/include/transport_processing.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -53,7 +53,7 @@ libc/CMakeFiles/library.dir/analizator_kernel/transport_processing.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
  /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
  /usr/include/strings.h \
- /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc/my_if.h \
+ /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/my_if.h \
  /usr/lib/gcc/x86_64-linux-gnu/12/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \

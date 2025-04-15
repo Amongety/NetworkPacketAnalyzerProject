@@ -1,4 +1,4 @@
-# Install script for directory: /home/amongety/projects_c/NetwotkPacketAnalyzerProject/libc
+# Install script for directory: /home/amongety/projects_c/NetworkPacketAnalyzerProject/libc
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
