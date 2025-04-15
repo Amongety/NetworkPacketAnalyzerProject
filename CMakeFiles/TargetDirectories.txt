@@ -1,6 +1,0 @@
-/home/amongety/projects_c/NetworkPacketAnalyzerProject/CMakeFiles/main.dir
-/home/amongety/projects_c/NetworkPacketAnalyzerProject/CMakeFiles/edit_cache.dir
-/home/amongety/projects_c/NetworkPacketAnalyzerProject/CMakeFiles/rebuild_cache.dir
-/home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/CMakeFiles/library.dir
-/home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/CMakeFiles/edit_cache.dir
-/home/amongety/projects_c/NetworkPacketAnalyzerProject/libc/CMakeFiles/rebuild_cache.dir
